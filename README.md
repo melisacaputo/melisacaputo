@@ -10,11 +10,11 @@
 
 * Apasionada de la tecnología, especializada en desarrollo Front End y Data Analytics.
   
-* Actualemente me encuentro estudiando Data Science y trabajando en el area de atención al cliente de Mercado Libre.
+* Actualmente me encuentro estudiando Data Science y trabajando en el área de atención al cliente de Mercado Libre.
 
-* Tengo conocmientos en SQL, Python, JavaScript, HTML y CSS. Sin dejar de lado, Excel, Powe BI, Tableau---
+* Tengo conocimientos en SQL, Python, JavaScript, HTML y CSS. Sin dejar de lado, Excel, Powe BI, Tableau.
 
-### 🔥: Estadísticas:
+### 🔥 Estadísticas:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
 
