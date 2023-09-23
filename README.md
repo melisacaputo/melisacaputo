@@ -10,9 +10,9 @@
 
 * Apasionada de la tecnología, especializada en desarrollo Front End y Data Analytics.
   
-* Actualmente me encuentro estudiando Data Science y trabajando en el área de atención al cliente de Mercado Libre.
+* Actualmente me encuentro estudiando Data Science y trabajando en el área de Cloud Platforms en Accenture.
 
-* Tengo conocimientos en SQL, Python, JavaScript, HTML y CSS. Sin dejar de lado, Excel, Powe BI, Tableau.
+* Tengo conocimientos en SQL, Python, JavaScript, HTML y CSS. Sin dejar de lado Excel, Power BI y Tableau.
 
 ### 🔥 Estadísticas:
 
