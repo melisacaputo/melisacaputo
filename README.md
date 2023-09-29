@@ -8,7 +8,7 @@
 
 ### :woman_technologist: Sobre mí: 
 
-* Apasionada de la tecnología, especializada en desarrollo Front End y Data Analytics.
+* Apasionada de la tecnología, especializada en desarrollo Front End, Data Analytics y Data Science.
   
 * Actualmente me encuentro estudiando Data Science y trabajando en el área de Cloud Platforms en Accenture.
 
