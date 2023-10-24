@@ -14,6 +14,5 @@
 
 * Tengo conocimientos en SQL, Python, JavaScript, HTML y CSS. Además de herramientas analíticas como Excel, Power BI y Tableau.
 
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melisacaputo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
